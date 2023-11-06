@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-11-06T14:55:55.591246Z</date>
+  <millis>1699282555591</millis>
+  <nanos>246000</nanos>
+  <sequence>0</sequence>
+  <logger>service.WebLogAnalyzerExam</logger>
+  <level>SEVERE</level>
+  <class>service.WebService</class>
+  <method>getWeb</method>
+  <thread>1</thread>
+  <message>Error line</message>
+</record>
+<record>
+  <date>2023-11-06T14:55:55.622499300Z</date>
+  <millis>1699282555622</millis>
+  <nanos>499300</nanos>
+  <sequence>1</sequence>
+  <logger>service.WebLogAnalyzerExam</logger>
+  <level>SEVERE</level>
+  <class>service.WebService</class>
+  <method>getWeb</method>
+  <thread>1</thread>
+  <message>Error line</message>
+</record>
+<record>
+  <date>2023-11-06T14:55:55.622499300Z</date>
+  <millis>1699282555622</millis>
+  <nanos>499300</nanos>
+  <sequence>2</sequence>
+  <logger>service.WebLogAnalyzerExam</logger>
+  <level>SEVERE</level>
+  <class>service.WebService</class>
+  <method>getWeb</method>
+  <thread>1</thread>
+  <message>Error line</message>
+</record>
+<record>
+  <date>2023-11-06T14:55:55.622499300Z</date>
+  <millis>1699282555622</millis>
+  <nanos>499300</nanos>
+  <sequence>3</sequence>
+  <logger>service.WebLogAnalyzerExam</logger>
+  <level>SEVERE</level>
+  <class>service.WebService</class>
+  <method>getWeb</method>
+  <thread>1</thread>
+  <message>Error line</message>
+</record>
+</log>
